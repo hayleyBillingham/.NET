@@ -1,0 +1,15 @@
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\bin\Debug\net6.0\WhatsMyName.exe
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\bin\Debug\net6.0\WhatsMyName.deps.json
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\bin\Debug\net6.0\WhatsMyName.runtimeconfig.json
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\bin\Debug\net6.0\WhatsMyName.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\bin\Debug\net6.0\ref\WhatsMyName.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\bin\Debug\net6.0\WhatsMyName.pdb
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\obj\Debug\net6.0\WhatsMyName.csproj.AssemblyReference.cache
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\obj\Debug\net6.0\WhatsMyName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\obj\Debug\net6.0\WhatsMyName.AssemblyInfoInputs.cache
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\obj\Debug\net6.0\WhatsMyName.AssemblyInfo.cs
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\obj\Debug\net6.0\WhatsMyName.csproj.CoreCompileInputs.cache
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\obj\Debug\net6.0\WhatsMyName.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\obj\Debug\net6.0\ref\WhatsMyName.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\obj\Debug\net6.0\WhatsMyName.pdb
+C:\Repos\Boopedia\Web-Development\.NET\Projects\WhatsMyName\obj\Debug\net6.0\WhatsMyName.genruntimeconfig.cache
