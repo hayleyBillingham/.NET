@@ -1,0 +1,15 @@
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Repos\Boopedia\Web-Development\.NET\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
