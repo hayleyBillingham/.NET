@@ -1,12 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Create A .NET console application using VS Code</title>
-</head>
-<body>
+  </head>
+  <body>
     <h1>Create A .NET console application using VS Code</h1>
-</body>
+    <ol>
+      <li>Start Visual Studio Code</li>
+      <li>
+        In the Open Folder dialog create a <i>folder</i> and select it, then
+        click <strong>Select Folder</strong>
+      <p>
+        The folder name becomes the project name and the namespace by default.
+      </p></li>
+      <li>In the <strong>Do you trust the authers of the files in this folder?</strong>dialog, select <strong>Yes, I trust the authors.</strong></li>
+      <li>Open the <strong>Terminal</strong> in Visual Studio Code by selecting <strong>View > Terminal</strong> from the main menu.
+    <p>The <strong>Termnal</strong>opens with the command prompt in the <i>projectFolder<i> folder</p></li>
+        <li>In the <strong>Terminal</strong>, enter the following command:
+        <code>dotnet new console --framework net6.0</code></li>
+        <li>The project template creates a simple application that displays "Hello World" in the console window by calling the Console.WriteLine(String) method in Program.cs
+            <code>Console.WriteLine("Hello, World!)</code>
+        </li>
+    </ol>
+  </body>
 </html>
