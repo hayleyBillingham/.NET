@@ -1,0 +1,15 @@
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\bin\Debug\net6.0\0-Hello-World.exe
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\bin\Debug\net6.0\0-Hello-World.deps.json
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\bin\Debug\net6.0\0-Hello-World.runtimeconfig.json
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\bin\Debug\net6.0\0-Hello-World.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\bin\Debug\net6.0\ref\0-Hello-World.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\bin\Debug\net6.0\0-Hello-World.pdb
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\obj\Debug\net6.0\0-Hello-World.csproj.AssemblyReference.cache
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\obj\Debug\net6.0\0-Hello-World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\obj\Debug\net6.0\0-Hello-World.AssemblyInfoInputs.cache
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\obj\Debug\net6.0\0-Hello-World.AssemblyInfo.cs
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\obj\Debug\net6.0\0-Hello-World.csproj.CoreCompileInputs.cache
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\obj\Debug\net6.0\0-Hello-World.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\obj\Debug\net6.0\ref\0-Hello-World.dll
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\obj\Debug\net6.0\0-Hello-World.pdb
+C:\Repos\Boopedia\Web-Development\.NET\Projects\0-Hello-World\obj\Debug\net6.0\0-Hello-World.genruntimeconfig.cache
